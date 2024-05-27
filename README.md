@@ -46,5 +46,5 @@ COOKIE_EXPIRE=7
 2. Run `npm i` to install missing dependencies
 3. start frontend using `npm run dev`
 
-> NOTE: If you encounter CORS issues, ensure that the origin URL matches the FRONTEND_URL provided in the config.env file.
+> NOTE: If you encounter CORS issues, ensure that the origin URL matches the `FRONTEND_URL` provided in the `config.env` file.
 > Any discrepancies, such as a different port number or trailing slashes, could cause CORS to fail.
